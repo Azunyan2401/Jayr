@@ -111,6 +111,17 @@ section#Watch{
 
 }
 
+section#Storyboard{
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 2.5rem;
+
+}
+
 
 section#M&V{
     min-height: 80vh;
